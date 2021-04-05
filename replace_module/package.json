@@ -1,0 +1,12 @@
+{
+  "name": "replace_module",
+  "version": "1.0.0",
+  "description": "module for replace name templates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
